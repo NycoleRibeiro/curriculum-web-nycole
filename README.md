@@ -1,2 +1,2 @@
-# curriculum-web-nycole
- Curriculo Web com React e Sass
+# Curriculum Web | Nycole Ribeiro
+Curriculo Web utilizando Vite + React + Sass
