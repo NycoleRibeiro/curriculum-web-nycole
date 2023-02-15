@@ -3,7 +3,8 @@
     
 #main-content
     background-color: variables.$bg-color
-    flex: 2 1 0
+    flex: 2
+    min-width: 26rem
     border-radius: variables.$container-border-radius
     padding: 3rem
 
@@ -21,6 +22,11 @@
 
         &:after
             @include mixins.gradient-border
+
+    h3
+        color: #8567e7
+        font-size: 1.5rem
+        margin-bottom: 1rem
     
     p
         color: variables.$text-color-secondary

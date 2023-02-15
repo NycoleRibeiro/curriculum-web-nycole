@@ -7,7 +7,6 @@ function App() {
 
   return (
     <div id="portfolio">
-      <h1>Nycole Ribeiro</h1>
       <Sidebar />
       <MainContent />
     </div>
